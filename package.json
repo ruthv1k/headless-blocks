@@ -1,0 +1,33 @@
+{
+  "name": "headless-blocks",
+  "version": "1.0.0",
+  "description": "a collection of reusable, atomic and molecular components that can be easily integrated into any React-based project",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruthv1k/headless-blocks.git"
+  },
+  "keywords": [
+    "react",
+    "headless",
+    "atomic",
+    "molecular",
+    "components"
+  ],
+  "author": "ruthv1k",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruthv1k/headless-blocks/issues"
+  },
+  "homepage": "https://github.com/ruthv1k/headless-blocks#readme",
+  "devDependencies": {
+    "@testing-library/react": "^13.0.0",
+    "@types/react": "^17.0.43",
+    "@types/react-dom": "^17.0.14",
+    "esbuild": "^0.11.18",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
